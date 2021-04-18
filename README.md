@@ -1,1 +1,2 @@
 # alpha
+multiplication function
